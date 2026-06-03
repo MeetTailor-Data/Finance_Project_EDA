@@ -71,8 +71,11 @@ using real stock market data from Yahoo Finance.
 
 ## Project Structure
 bank-stocks-finance-eda/
+
 │
+
 ├── Finance_Project.ipynb
+
 └── README.md
 
 ---
